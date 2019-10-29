@@ -1,0 +1,10 @@
+/*
+!/TankProject/
+TankProject/*
+
+!TankProject/Assets/
+TankProject/Assets/*
+
+!TankProject/Assets/Scripts
+
+!.gitignore
